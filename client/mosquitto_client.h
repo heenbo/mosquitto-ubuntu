@@ -1,0 +1,8 @@
+#ifndef _MOSQUITTO_CLIENT_H_
+#define  _MOSQUITTO_CLIENT_H_
+
+
+
+
+
+#endif //_MOSQUITTO_CLIENT_H_
